@@ -5,7 +5,18 @@
 
 // Domain & Path Configuration
 define('APP_NAME', 'Kamirex Specialist Hospital');
-define('APP_URL', 'http://localhost/kamirex-hospital'); // Update this on deployment
+
+// Dynamically determine the app URL to support local subdirectories and live servers
+$protocol = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://";
+$host = isset($_SERVER['HTTP_HOST']) ? $_SERVER['HTTP_HOST'] : 'localhost';
+$doc_root = str_replace('\\', '/', $_SERVER['DOCUMENT_ROOT']);
+$dir = str_replace('\\', '/', __DIR__);
+$app_path = str_replace($doc_root, '', $dir);
+if ($app_path === $dir) {
+    $app_path = ''; // Fallback in case of mismatch
+}
+define('APP_URL', rtrim($protocol . $host . $app_path, '/'));
+
 define('BASE_PATH', __DIR__);
 
 // Database Configuration
