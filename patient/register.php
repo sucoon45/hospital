@@ -48,7 +48,7 @@ $pageTitle = "Patient Registration";
                     <div class="bg-primary-gradient p-5 text-center text-white">
                         <i class="fas fa-user-plus fs-1 mb-3"></i>
                         <h2>Create Your Patient Portal Account</h2>
-                        <p class="mb-0 opacity-75">Join Kamirex Specialist Hospital's digital ecosystem</p>
+                        <p class="mb-0 opacity-75">Join NovaCare Specialist Hospital's digital ecosystem</p>
                     </div>
                     
                     <div class="card-body p-5 bg-white">

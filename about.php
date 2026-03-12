@@ -17,11 +17,11 @@ include_once 'includes/components/header.php';
     <div class="container">
         <div class="row align-items-center mb-5">
             <div class="col-lg-6 mb-4 mb-lg-0">
-                <img src="assets/images/hero_bg.jpg" alt="Kamirex Advanced Facility" class="img-fluid rounded-4 shadow-lg border border-3 border-white">
+                <img src="assets/images/hero_bg.jpg" alt="NovaCare Advanced Facility" class="img-fluid rounded-4 shadow-lg border border-3 border-white">
             </div>
             <div class="col-lg-6 px-lg-5">
                 <h2 class="mb-4 text-dark fw-bold">Redefining Nigerian Healthcare</h2>
-                <p class="text-muted lead mb-4">Founded with a vision to bridge the gap in quality medical care, Kamirex Specialist Hospital merges top-tier medical expertise with cutting-edge technology.</p>
+                <p class="text-muted lead mb-4">Founded with a vision to bridge the gap in quality medical care, NovaCare Specialist Hospital merges top-tier medical expertise with cutting-edge technology.</p>
                 
                 <ul class="list-unstyled mb-4">
                     <li class="mb-3 d-flex align-items-start">

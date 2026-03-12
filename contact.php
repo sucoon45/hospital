@@ -14,7 +14,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['send_msg'])){
 <section class="hero-section" style="min-height: 40vh; background: linear-gradient(rgba(0, 51, 102, 0.9), rgba(0, 123, 255, 0.7)), url('assets/images/hero_bg.jpg') center/cover no-repeat;">
     <div class="container text-center pt-5">
         <h1 class="hero-title text-white">We're Here for <span class="border-bottom border-3">You</span></h1>
-        <p class="hero-subtitle text-light mb-0 mx-auto" style="max-width: 600px;">Location details, open channels, and 24/7 emergency hotlines. Reach out to Kamirex Hospital's support team.</p>
+        <p class="hero-subtitle text-light mb-0 mx-auto" style="max-width: 600px;">Location details, open channels, and 24/7 emergency hotlines. Reach out to NovaCare Hospital's support team.</p>
     </div>
 </section>
 

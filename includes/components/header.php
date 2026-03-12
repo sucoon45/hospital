@@ -35,7 +35,7 @@
     <div class="container text-center">
         <a class="navbar-brand d-flex align-items-center" href="<?php echo APP_URL; ?>/index.php">
             <i class="fas fa-heartbeat text-primary me-2"></i>
-            Kamirex <span class="text-primary ms-1">Specialist</span>
+            NovaCare <span class="text-primary ms-1">Specialist</span>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain">
             <span class="navbar-toggler-icon"></span>

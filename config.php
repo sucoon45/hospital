@@ -1,10 +1,10 @@
 <?php
 /**
- * Kamirex Specialist Hospital - Project Configuration
+ * NovaCare Specialist Hospital - Project Configuration
  */
 
 // Domain & Path Configuration
-define('APP_NAME', 'Kamirex Specialist Hospital');
+define('APP_NAME', 'NovaCare Specialist Hospital');
 
 // Dynamically determine the app URL to support local subdirectories and live servers
 $protocol = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://";

@@ -1,6 +1,6 @@
 <?php
 /**
- * Utility Functions for Kamirex HMS
+ * Utility Functions for NovaCare HMS
  */
 
 /**

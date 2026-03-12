@@ -10,7 +10,7 @@ $full_name = $_SESSION['full_name'] ?? 'User';
 <div class="sidebar col-lg-2 d-none d-lg-block bg-white border-end min-vh-100 p-0 shadow-sm fixed-start sticky-top">
     <div class="sidebar-brand p-4 text-center border-bottom">
         <h5 class="navbar-brand text-primary m-0 fw-bold">
-            <i class="fas fa-heartbeat me-2"></i> Kamirex
+            <i class="fas fa-heartbeat me-2"></i> NovaCare
         </h5>
     </div>
 

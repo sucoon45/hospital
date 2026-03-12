@@ -9,7 +9,7 @@ include_once 'includes/components/header.php';
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-7">
-                <span class="badge bg-soft-blue text-primary px-3 py-2 rounded-pill mb-3 fw-bold">Welcome to Kamirex Specialist</span>
+                <span class="badge bg-soft-blue text-primary px-3 py-2 rounded-pill mb-3 fw-bold">Welcome to NovaCare Specialist</span>
                 <h1 class="hero-title">Premier Healthcare You Can <span class="text-primary border-bottom border-primary border-3">Trust</span></h1>
                 <p class="hero-subtitle mb-4">Experience world-class medical services at Lagos' most advanced multi-specialist hospital. From high-tech diagnostics to compassionate care, we prioritize your wellness above all.</p>
                 <div class="d-flex flex-wrap">

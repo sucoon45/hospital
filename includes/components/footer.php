@@ -5,7 +5,7 @@
             <div class="col-lg-4 col-md-6 mb-4">
                 <h5 class="navbar-brand text-white mb-4">
                     <i class="fas fa-heartbeat text-primary me-2"></i>
-                    Kamirex Specialist
+                    NovaCare Specialist
                 </h5>
                 <p class="mb-4">Providing affordable, world-class healthcare with integrity and innovation. Your health and wellbeing are our top priority.</p>
                 <div class="footer-social">
@@ -44,7 +44,7 @@
     </div>
     <div class="bg-dark py-3 border-top border-secondary">
         <div class="container text-center">
-            <p class="small mb-0 text-secondary">&copy; <?php echo date('Y'); ?> Kamirex Specialist Hospital. All rights reserved.</p>
+            <p class="small mb-0 text-secondary">&copy; <?php echo date('Y'); ?> NovaCare Specialist Hospital. All rights reserved.</p>
         </div>
     </div>
 </footer>
@@ -60,7 +60,7 @@
 <div id="aiChatWindow" class="position-fixed bottom-0 end-0 m-4 mb-5 d-none z-index-100" style="width: 350px; height: 450px;">
     <div class="card border-0 shadow-lg rounded-4 overflow-hidden h-100">
         <div class="card-header bg-primary text-white p-3 d-flex justify-content-between align-items-center">
-            <h6 class="mb-0 fw-bold"><i class="fas fa-robot me-2"></i> Kamirex AI Assitant</h6>
+            <h6 class="mb-0 fw-bold"><i class="fas fa-robot me-2"></i> NovaCare AI Assitant</h6>
             <button id="aiChatClose" class="btn btn-sm text-white border-0"><i class="fas fa-times"></i></button>
         </div>
         <div id="aiChatBody" class="card-body bg-white p-3 overflow-auto" style="height: 320px;">

@@ -71,7 +71,7 @@ $pageTitle = "Patient Dashboard";
                             <div class="row align-items-center">
                                 <div class="col-md-8">
                                     <h3 class="fw-bold mb-3">Hello, <?php echo $_SESSION['full_name']; ?>! 👋</h3>
-                                    <p class="lead mb-4 opacity-75">Your health journey with Kamirex Specialist is our top priority. Access your records, book new appointments, or consult with our experts virtually.</p>
+                                    <p class="lead mb-4 opacity-75">Your health journey with NovaCare Specialist is our top priority. Access your records, book new appointments, or consult with our experts virtually.</p>
                                     <a href="appointments.php" class="btn btn-light rounded-pill px-4 text-primary fw-bold shadow-sm">Book New Appointment <i class="fas fa-plus-circle ms-2"></i></a>
                                 </div>
                                 <div class="col-md-4 d-none d-md-block text-center opacity-25">

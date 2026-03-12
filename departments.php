@@ -11,7 +11,7 @@ include_once 'includes/components/header.php';
 <section class="hero-section" style="min-height: 40vh; background: linear-gradient(rgba(0, 51, 102, 0.9), rgba(32, 201, 151, 0.7)), url('assets/images/hero_bg.jpg') center/cover no-repeat;">
     <div class="container text-center pt-5">
         <h1 class="hero-title text-white">Our Medical <span class="border-bottom border-3">Faculties</span></h1>
-        <p class="hero-subtitle text-light mb-0 mx-auto" style="max-width: 600px;">Explore the various specialized branches of Kamirex Hospital. Each department is equipped with modern infrastructure and top specialists.</p>
+        <p class="hero-subtitle text-light mb-0 mx-auto" style="max-width: 600px;">Explore the various specialized branches of NovaCare Hospital. Each department is equipped with modern infrastructure and top specialists.</p>
     </div>
 </section>
 
